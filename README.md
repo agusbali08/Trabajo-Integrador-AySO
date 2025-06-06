@@ -15,3 +15,7 @@ Objetivos del proyecto:
 - Configurar un servidor web Apache funcional dentro del entorno virtual.
 - Verificar la conectividad en red mediante el modo "puente" de VirtualBox.
 - Reforzar habilidades técnicas y trabajo colaborativo.
+
+Enlace del video del trabajo practico:
+
+https://youtu.be/vySfzwWRYmk
